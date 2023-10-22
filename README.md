@@ -1,0 +1,2 @@
+# FLAGFIND123
+FILE TO FIND A FLAG for a CTF game
